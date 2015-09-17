@@ -19,7 +19,7 @@
         android:text="911 응급 전화 걸기"
         android:background="@color/bg2"
         ></Button>
-
+  
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
